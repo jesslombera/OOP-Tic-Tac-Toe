@@ -1,0 +1,43 @@
+body {
+  font-family: 'Raleway' , sans-serif;
+  background-color: #C65454;
+  
+}
+
+h1 {
+  font-family: 'Raleway' , sans-serif;
+  margin-left: 150px;
+  color: #f5f5dc;
+  margin-right: 25px;
+
+  
+ }
+
+
+
+.box {
+  display: inline-block;
+  background: #f5f5dc;
+  margin: 2px;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 120px;
+  font-family: 'Raleway' , sans-serif;
+  color: #f5f500; 
+}
+
+.selected {
+  background: #00FF99;
+}
+
+.button {
+  margin-top: 2px;
+  font-size: 30px;
+  width: 469px;
+  display: inline-block;
+  font-family: 'Raleway' , sans-serif;
+   
+}
